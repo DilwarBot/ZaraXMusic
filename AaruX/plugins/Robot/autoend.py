@@ -2,10 +2,10 @@ from pyrogram import filters
 
 import config
 from strings import get_command
-from AnonX import app
-from AnonX.misc import SUDOERS
-from AnonX.utils.database import autoend_off, autoend_on
-from AnonX.utils.decorators.language import language
+from AaruX import app
+from AaruX.misc import SUDOERS
+from AaruX.utils.database import autoend_off, autoend_on
+from AaruX.utils.decorators.language import language
 
 # Commands
 AUTOEND_COMMAND = get_command("AUTOEND_COMMAND")
