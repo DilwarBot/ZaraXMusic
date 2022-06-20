@@ -4,15 +4,15 @@ from pyrogram.types import InlineKeyboardMarkup, Message
 import config
 from config import BANNED_USERS
 from strings import get_command
-from AnonX import YouTube, app
-from AnonX.core.call import Anon
-from AnonX.misc import db
-from AnonX.utils.database import get_loop
-from AnonX.utils.decorators import AdminRightsCheck
-from AnonX.utils.inline.play import (stream_markup,
+from AaruX import YouTube, app
+from AaruX.core.call import Anon
+from AaruX.misc import db
+from AaruX.utils.database import get_loop
+from AaruX.utils.decorators import AdminRightsCheck
+from AaruX.utils.inline.play import (stream_markup,
                                           telegram_markup)
-from AnonX.utils.stream.autoclear import auto_clean
-from AnonX.utils.thumbnails import gen_thumb
+from AaruX.utils.stream.autoclear import auto_clean
+from AaruX.utils.thumbnails import gen_thumb
 
 # Commands
 SKIP_COMMAND = get_command("SKIP_COMMAND")
