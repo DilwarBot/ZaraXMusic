@@ -4,7 +4,7 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup
 
 from config import BANNED_USERS
-from AarhX import app
+from AaruX import app
 from AaruX.utils.database import (get_global_tops,
                                        get_particulars, get_userss)
 from AaruX.utils.decorators.language import languageCB
