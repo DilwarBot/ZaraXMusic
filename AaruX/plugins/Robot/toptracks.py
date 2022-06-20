@@ -11,7 +11,7 @@ from AaruX.utils.decorators.language import languageCB
 from AaruX.utils.inline.playlist import (botplaylist_markup,
                                               failed_top_markup,
                                               top_play_markup)
-from AnonX.utils.stream.stream import stream
+from AaruX.utils.stream.stream import stream
 
 loop = asyncio.get_running_loop()
 
