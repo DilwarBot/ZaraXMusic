@@ -6,13 +6,13 @@ from pyrogram.types import InlineKeyboardMarkup, Message
 import config
 from config import BANNED_USERS
 from strings import get_command, get_string, helpers
-from AnonX import app
-from AnonX.misc import SUDOERS
-from AnonX.utils import help_pannel
-from AnonX.utils.database import get_lang, is_commanddelete_on
-from AnonX.utils.decorators.language import (LanguageStart,
+from AaruX import app
+from AaruX.misc import SUDOERS
+from AaruX.utils import help_pannel
+from AaruX.utils.database import get_lang, is_commanddelete_on
+from AaruX.utils.decorators.language import (LanguageStart,
                                                   languageCB)
-from AnonX.utils.inline.help import (help_back_markup,
+from AaruX.utils.inline.help import (help_back_markup,
                                           private_help_panel)
 
 ### Command
