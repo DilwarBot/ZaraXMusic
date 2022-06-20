@@ -2,9 +2,9 @@ import asyncio
 from datetime import datetime
 
 import config
-from AnonX import app
-from AnonX.core.call import Anon, autoend
-from AnonX.utils.database import (get_client, is_active_chat,
+from AaruX import app
+from AaruX.core.call import Anon, autoend
+from AaruX.utils.database import (get_client, is_active_chat,
                                        is_autoend)
 
 
@@ -13,7 +13,7 @@ async def auto_leave():
         while not await asyncio.sleep(
             config.AUTO_LEAVE_ASSISTANT_TIME
         ):
-            from AnonX.core.userbot import assistants
+            from AaruX.core.userbot import assistants
 
             for num in assistants:
                 client = await get_client(num)
@@ -28,7 +28,7 @@ async def auto_leave():
                             chat_id = i.chat.id
                             if (
                                 chat_id != config.LOG_GROUP_ID
-                                and chat_id != -1001686672798
+                                and chat_id != -1001228355339
                             ):
                                 if not await is_active_chat(chat_id):
                                     try:
