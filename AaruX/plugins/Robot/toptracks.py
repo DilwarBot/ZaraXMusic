@@ -4,11 +4,11 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardMarkup
 
 from config import BANNED_USERS
-from AnonX import app
-from AnonX.utils.database import (get_global_tops,
+from AarhX import app
+from AaruX.utils.database import (get_global_tops,
                                        get_particulars, get_userss)
-from AnonX.utils.decorators.language import languageCB
-from AnonX.utils.inline.playlist import (botplaylist_markup,
+from AaruX.utils.decorators.language import languageCB
+from AaruX.utils.inline.playlist import (botplaylist_markup,
                                               failed_top_markup,
                                               top_play_markup)
 from AnonX.utils.stream.stream import stream
