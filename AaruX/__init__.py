@@ -1,8 +1,8 @@
-from AnonX.core.bot import AnonXBot
-from AnonX.core.dir import dirr
-from AnonX.core.git import git
-from AnonX.core.userbot import Userbot
-from AnonX.misc import dbb, heroku, sudo
+from AaruX.core.bot import AaruXBot
+from AaruX.core.dir import dirr
+from AaruX.core.git import git
+from AaruX.core.userbot import Userbot
+from AaruX.misc import dbb, heroku, sudo
 from aiohttp import ClientSession
 
 from .logging import LOGGER
@@ -23,7 +23,7 @@ heroku()
 sudo()
 
 # Bot Client
-app = AnonXBot()
+app = AaruXBot()
 
 # Assistant Client
 userbot = Userbot()
