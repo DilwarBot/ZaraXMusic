@@ -1,5 +1,5 @@
-from AnonX import app
-from AnonX.utils.database import get_cmode
+from AaruX import app
+from AaruX.utils.database import get_cmode
 
 
 async def get_channeplayCB(_, command, CallbackQuery):
