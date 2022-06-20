@@ -1,7 +1,7 @@
 import random
 
-from AnonX import userbot
-from AnonX.core.mongo import mongodb
+from AaruX import userbot
+from AaruX.core.mongo import mongodb
 
 db = mongodb.assistants
 
