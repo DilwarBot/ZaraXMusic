@@ -18,9 +18,9 @@ from pytgcalls.types.stream import StreamAudioEnded
 
 import config
 from strings import get_string
-from AnonX import LOGGER, YouTube, app
-from AnonX.misc import db
-from AnonX.utils.database import (add_active_chat,
+from AaruX import LOGGER, YouTube, app
+from AaruX.misc import db
+from AaruX.utils.database import (add_active_chat,
                                        add_active_video_chat,
                                        get_assistant,
                                        get_audio_bitrate, get_lang,
@@ -29,11 +29,11 @@ from AnonX.utils.database import (add_active_chat,
                                        music_on, set_loop,
                                        remove_active_chat,
                                        remove_active_video_chat)
-from AnonX.utils.exceptions import AssistantErr
-from AnonX.utils.inline.play import (stream_markup,
+from AaruX.utils.exceptions import AssistantErr
+from AaruX.utils.inline.play import (stream_markup,
                                           telegram_markup)
-from AnonX.utils.stream.autoclear import auto_clean
-from AnonX.utils.thumbnails import gen_thumb
+from AaruX.utils.stream.autoclear import auto_clean
+from AaruX.utils.thumbnails import gen_thumb
 
 autoend = {}
 counter = {}
