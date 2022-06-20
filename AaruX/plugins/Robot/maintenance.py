@@ -2,12 +2,12 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from strings import get_command, get_string
-from AnonX import app
-from AnonX.misc import SUDOERS
-from AnonX.utils.database import (get_lang, is_maintenance,
+from AaruX import app
+from AaruX.misc import SUDOERS
+from AaruX.utils.database import (get_lang, is_maintenance,
                                        maintenance_off,
                                        maintenance_on)
-from AnonX.utils.decorators.language import language
+from AaruX.utils.decorators.language import language
 
 # Commands
 MAINTENANCE_COMMAND = get_command("MAINTENANCE_COMMAND")
