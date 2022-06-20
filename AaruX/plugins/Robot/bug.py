@@ -8,12 +8,12 @@ from pyrogram.types import (
     Message,
 )
 
-from AnonX import app as Client
+from AaruX import app as Client
 from config import (
     OWNER_ID as owner_id,
 )
 
-SUPPORT = "DevilsHeavenMF"
+SUPPORT = "AARU_SUPPORT"
 
 def content(msg: Message) -> [None, str]:
     text_to_return = msg.text
@@ -42,10 +42,10 @@ async def bug(_, msg: Message):
     datetimes_fmt = "%d-%m-%Y"
     datetimes = datetime.utcnow().strftime(datetimes_fmt)
 
-    thumb = "https://telegra.ph/file/56d1760224589ee370186.jpg"
+    thumb = "https://telegra.ph/file/793bea320641b9112afef.jpg"
     
     bug_report = f"""
-**#ʙᴜɢ :** **@anonymous_was_bot**
+**#ʙᴜɢ :** **@BANNA_XD**
 
 **ʀᴇᴩᴏʀᴛᴇᴅ ʙʏ :** **{mention}**
 **ᴜsᴇʀ ɪᴅ :** **{user_id}**
