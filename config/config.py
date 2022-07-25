@@ -27,7 +27,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝑨𝑨𝑹𝑼 𝑿 𝑹𝑶𝑩𝑶𝑻​")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5150456401").split())
+    map(int, getenv("OWNER_ID", "5552568274").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -43,9 +43,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/AARU_BOTS_ZONE")
+    "SUPPORT_CHANNEL", "https://t.me/RYMOFFICIAL")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/AARU_SUPPORT")
+    "SUPPORT_GROUP", "https://t.me/JaiHindChatting")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
