@@ -24,10 +24,10 @@ SONG_DOWNLOAD_DURATION = int(
 
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝑨𝑨𝑹𝑼 𝑿 𝑹𝑶𝑩𝑶𝑻​")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𝑨𝑳𝑶𝑵𝑬 𝑿 𝑴𝑼𝑺𝑰𝑪​")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5552568274").split())
+    map(int, getenv("OWNER_ID", "5430631875").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -36,18 +36,18 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/BANNA-XD143/AaruXMusic",
+    "https://github.com/DilwarBot/ZaraXMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/RYMOFFICIAL")
+    "SUPPORT_CHANNEL", "https://t.me/ALONE_CHATTING_WORLD")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/JaiHindChatting")
+    "SUPPORT_GROUP", "https://t.me/ALONE_CHATTING_WORLD")
 
-AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
+AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
 
 AUTO_LEAVE_ASSISTANT_TIME = int(
     getenv("ASSISTANT_LEAVE_TIME", "5400")
@@ -103,11 +103,11 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/ebfc54a7f65862f277aa0.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph//file/d122a125988c66faa1393.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/373235ff603bbcbe334ec.jpg",
+    "https://telegra.ph//file/d122a125988c66faa1393.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
