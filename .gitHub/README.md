@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「𝑨𝑨𝑹𝑼🇽𝑹𝑶𝑩𝑶𝑻」──
+    ──「𝑨𝑳𝑶𝑵𝑬🇽𝑴𝑼𝑺𝑰𝑪」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/793bea320641b9112afef.jpg">
+  <img src="https://telegra.ph//file/d122a125988c66faa1393.jpg">
 </p>
 
 <p align="center">
@@ -16,14 +16,14 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/373235ff603bbcbe334ec.jpg">
+  <img src="https://telegra.ph//file/d122a125988c66faa1393.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BANNA-XD143/AaruXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DilwarBot/ZaraXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
@@ -37,11 +37,11 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/AARU_SUPPORT"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ALONE_SUPPORT"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/BANNA_XD"><img src="https://img.shields.io/badge/%20Banna-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ALONE_WAS_BOT"><img src="https://img.shields.io/badge/%20Banna-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
@@ -52,7 +52,7 @@
 <a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
 <a href="https://github.com/pytgcalls/pytgcalls"> <img src="https://img.shields.io/badge/PyTgCalls-black?style=for-the-badge&logo=github" alt="Pytgcalls" /> </a>
 <a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/CallsMusic-black?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
-<a href="https://github.com/BANNA-XD143"> <img src="https://img.shields.io/badge/BANNA-black?style=for-the-badge&logo=github" alt="Anonymous" /> </a>
+<a href="https://github.com/DilwarBot"> <img src="https://img.shields.io/badge/Dilwar-black?style=for-the-badge&logo=github" alt="Anonymous" /> </a>
 <a href="https://github.com/NotReallyShikhar"> <img src="https://img.shields.io/badge/Shikhar-black?style=for-the-badge&logo=github" alt="Shikhar" /> </a>
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
