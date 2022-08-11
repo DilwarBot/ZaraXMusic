@@ -1,7 +1,7 @@
 {
-    "name": "꧁❤•༆ 𝑨𝑨𝑹𝑼 🇽 𝑹𝑶𝑩𝑶𝑻 ❤•༆꧂",
+    "name": "❤•༆ 𝑨𝑳𝑶𝑵𝑬 🇽 𝑴𝑼𝑺𝑰𝑪 ❤•༆",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/373235ff603bbcbe334ec.jpg",
+    "logo": "https://telegra.ph//file/d122a125988c66faa1393.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -40,7 +40,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://DEVDA123:DEVDA123@cluster0.mdzgb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+        "value": "",
         "required": false
       },
       "AUTO_DOWNLOADS_CLEAR": {
@@ -50,7 +50,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "꧁❤•༆ 𝑨𝑨𝑹𝑼 🇽 𝑹𝑶𝑩𝑶𝑻 ❤•༆꧂",
+        "value": "❤•༆ 𝑨𝑳𝑶𝑵𝑬 🇽 𝑴𝑼𝑺𝑰𝑪 ❤•༆",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -80,7 +80,7 @@
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "",
+        "value": "https://telegra.ph//file/d122a125988c66faa1393.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
@@ -95,17 +95,17 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1001228355339",
+        "value": "-1001743708202",
         "required": true
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "https://t.me/AARU_SUPPORT",
+        "value": "https://t.me/ALONE_CHATTING_WORLD",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "https://t.me/AARU_BOTS_ZONE",
+        "value": "https://t.me/ALONE_CHATTING_WORLD",
         "required": false
       }
     },
@@ -117,7 +117,7 @@
               "url": "heroku/nodejs"
           },
           {
-              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+              "url": "https://github.com/DilwarBot/heroku-buildpack-ffmpeg-latest.git"
           }
       ],
       "formation": {
