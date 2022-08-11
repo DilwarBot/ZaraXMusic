@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/BANNA-XD143/AaruXMusic/stargazers"><img src="https://img.shields.io/github/stars/BANNA-XD143/AaruXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/BANNA-XD143/AaruXMusic/network/members"> <img src="https://img.shields.io/github/forks/BANNA-XD143/AaruXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/BANNA-XD143/AaruXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/DilwarBot/ZaraXMusic/stargazers"><img src="https://img.shields.io/github/stars/BANNA-XD143/AaruXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/DilwarBot/ZaraXMusic/network/members"> <img src="https://img.shields.io/github/forks/BANNA-XD143/AaruXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/DilwarBot/ZaraXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
-<a href="https://github.com/BANNA-XD143/AaruXMusic/commits/BANNA-XD143"> <img src="https://img.shields.io/github/last-commit/BANNA-XD143/AaruXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/DilwarBot/ZaraXMusic/commits/DilwarBot"> <img src="https://img.shields.io/github/last-commit/BANNA-XD143/AaruXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/ALONE_SUPPORT"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ALONE_CHATTING_WORLD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
